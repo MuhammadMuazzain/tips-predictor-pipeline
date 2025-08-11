@@ -40,7 +40,7 @@ This is a toy example of a standalone ML pipeline written **entirely** in Python
 
 The following diagram describes the pipeline at a high level. The README describes it in more detail.
 
-![Diagram](./toy-ml-pipeline-diagram.svg)
+![Diagram](./ml-pipeline-diagram.svg)
 
 ## Getting started
 
@@ -218,7 +218,7 @@ test_preds = reloaded_mw.predict(test_df)
 
 ## Roadmap
 
-See the [open issues](https://github.com/shreyashankar/toy-ml-pipeline/issues) for tickets corresponding to feature ideas. The issues in this repo are mainly tagged either `data science` or `engineering`.
+See the [open issues](https://github.com/MuhammadMuazzain/toy-ml-pipeline/issues) for tickets corresponding to feature ideas. The issues in this repo are mainly tagged either `data science` or `engineering`.
 
 ## Contributing
 
@@ -235,7 +235,7 @@ Anyone is welcome to contribute, and your contribution is greatly appreciated! F
 
 ## Contact
 
-Original author: [Shreya Shankar](https://www.twitter.com/sh_reya)
+Original author: Muhammad Muazzain
 
-Email: shreya@cs.stanford.edu
+Email: muhammadmuazzain07@gmail.com
 
